@@ -12,7 +12,9 @@ int Length(List L) {
 	return length;
 }
 
+// Delete all of the nodes that have value X
 void DeleteAll(ElemType X, List L) {
+	assert(L);
 	Position P, TmpCell;
 	P = L;
 	while(P->Next != NULL) {
