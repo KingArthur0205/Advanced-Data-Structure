@@ -12,6 +12,19 @@ int Length(List L) {
 	return length;
 }
 
+void DeleteAll(ElemType X, List L) {
+	Position P, TmpCell;
+	P = L;
+	while(P->Next != NULL) {
+		if(P->Next->Element == X) {
+			TmpCell = P->Next;
+			P->Next = TmpCell->Next;
+			free(TmpCell);
+		}
+		P = P->Next;
+	}
+}
+
 //A function that examines if a list is empty
 int IsEmpty(List L) {
 	//If the input list doesn't exist, the assert function will report a fault to the system.
@@ -71,4 +84,51 @@ Position FindPrevious(ElemType X, List L) {
 	while(P->Next != NULL && P->Next->Element != X)
 		P = P->Next;
 	return P;
+}
+
+/*
+ * Insert after the Position P
+ * List L is unused in this function
+ */
+void Insert(ElemType X, List L, Position P) {
+	assert(L && P);
+	Position TmpCell;
+	
+	TmpCell = (Position)malloc(sizeof(struct Node));
+	if(TmpCell == NULL)
+		exit(-1);
+
+	TmpCell->Element = X;
+	TmpCell->Next = P->Next;
+	P->Next = TmpCell;
+}
+
+// Delete a list
+void DeleteList(List L) {
+	Position P, TmpCell;
+	P = L->Next;
+	L->Next = NULL;
+	while(P != NULL) {
+		TmpCell = P->Next;
+		free(P);
+		P= TmpCell;
+	}
+}
+
+// Get the header of the list
+Position Header(List L) {
+	assert(L);
+	return L;
+}
+
+// Get the first element of the list.
+Position First(List L) {
+	assert(L);
+	return L->Next;
+}
+
+//Get the element value at Position P
+ElemType Retrieve(Position P) {
+	assert(P);
+	return P->Element;
 }

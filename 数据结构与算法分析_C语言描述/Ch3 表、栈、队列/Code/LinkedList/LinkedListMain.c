@@ -22,7 +22,8 @@ int main() {
 		ptr->Next = tempNode;
 		ptr = tempNode;
 	}
+	Insert(3, L, L->Next->Next);
+	DeleteAll(3, L);
 	show(L);
-	printf("%p", Find(3, L));
 	return 0;
 }
