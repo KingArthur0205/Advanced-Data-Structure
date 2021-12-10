@@ -9,8 +9,23 @@ SearchTree construct() {
     return tree;
 }
 
+void printTree(SearchTree T) {
+    if(T->Left == NULL && T->Right == NULL) {
+        printf("%d, ", T->Element);
+        return ;
+    }
+    if(T->Left != NULL) 
+        printTree(T->Left);
+    printf("%d, ", T->Element);
+    if(T->Right != NULL)
+        printTree(T->Right);
+}
+
 int main() {
     SearchTree tree = construct();
-    printf("%d %d", FindMin(tree)->Element, FindMax(tree)->Element);
+    int i;
+    for(i = 0; i < 10; i++) 
+        Insert(i, tree);
+    printTree(tree);
     return 0;
 }
