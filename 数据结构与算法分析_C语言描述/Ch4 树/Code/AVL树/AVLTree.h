@@ -7,7 +7,7 @@ typedef Position AVLTree;
 typedef int ElemType;
 
 AVLTree MakeEmpty(AVLTree T);
-Position FInd(ElemType X, AVLTree T);
+Position Find(ElemType X, AVLTree T);
 Position FindMin(AVLTree T);
 Position FindMax(AVLTree T);
 AVLTree Insert(ElemType X, AVLTree T);

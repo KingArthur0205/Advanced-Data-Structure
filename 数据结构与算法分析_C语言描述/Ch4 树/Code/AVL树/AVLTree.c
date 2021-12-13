@@ -5,6 +5,48 @@ static AVLTree DoubleRotateWithLeft(Position P);
 static AVLTree SingleRotateWithRight(Position P);
 static AVLTree DoubleRotateWithRight(Position P);
 
+AVLTree MakeEmpty(AVLTree T) {
+    if(T != NULL) {
+        MakeEmpty(T->Left);
+        MakeEmpty(T->Right);
+        free(T);
+    }
+    return NULL;
+}
+
+//在树T中寻找元素X
+Position Find(ElemType X, AVLTree T) {
+    //树中不存在X
+    if(T == NULL)
+        return NULL;
+    //X可能在左子树
+    if (T->Element > X)
+        return Find(X, T->Left);
+    //X可能在右子树
+    else if (T->Element < X)
+        return Find(X, T->Right);
+    //当前T节点元素等于X
+    return T;
+}
+
+Position FindMin(AVLTree T) {
+    if(T == NULL)
+        return NULL;
+
+    if(T->Left == NULL)
+        return T;
+    return FindMin(T->Left);
+}
+
+Position FindMax(AVLTree T) {
+    if(T == NULL)
+        return NULL;
+
+    if(T->Right == NULL)
+        return T;
+    return T->Right;
+}
+
 /* 在AVL树中插入元素X
  * 递归结束条件：若传入树为空（当前节点不在树中），创建该节点
  * 1.若X小于当前节点值，T->Left = Insert(X, T->Left)。判断T的左右子树高度差，若等于2，进行判断：
@@ -75,7 +117,7 @@ static Position SingleRotateWithLeft(Position P2) {
 
     //更新P1和P2高度
     P2->Height = MAX(Height(P2->Left), Height(P2->Right)) + 1;
-    P1->Height = MAX(Height(P1->Left), Height(P2)) + 1;
+    P1->Height = MAX(Height(P1->Left), P2->Height) + 1;
 
     //返回新的根节点P1
     return P1;
@@ -93,20 +135,20 @@ static Position SingleRotateWithRight(Position P2) {
 
     //更新P1和P2高度
     P2->Height = MAX(Height(P2->Left), Height(P2->Right)) + 1;
-    P1->Height = MAX(Height(P1->Left), Height(P2)) + 1;
+    P1->Height = MAX(Height(P1->Left), P2->Height) + 1;
 
     //返回新的根节点P1
     return P1;
 }
 
 static Position DoubleRotateWithLeft(Position P3) {
-    P3->Left = SingleRotateWithLeft(P3->Left);
-    return SingleRotateWithRight(P3);
+    P3->Left = SingleRotateWithRight(P3->Left);
+    return SingleRotateWithLeft(P3);
 }
 
 static Position DoubleRotateWithRight(Position P3) {
-    P3->Right = SingleRotateWithRight(P3->Right);
-    return SingleRotateWithLeft(P3);
+    P3->Right = SingleRotateWithLeft(P3->Right);
+    return SingleRotateWithRight(P3);
 }
 
 int MAX(int a, int b) {
