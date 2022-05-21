@@ -1,5 +1,10 @@
 # Advanced-Data-Structure
 *This is self-study guide on advanced data structure and algorithm. Code will be written in C*
+## Week 1
+### 1.1 Dynamic Connectivity
+1. [Dynamic Connectivity Introduction](https://github.com/KingArthur0205/Advanced-Data-Structure/blob/main/Algorithms%20Part1/Week%201/Dynamic%20Connectivity/%E3%80%90DS%E3%80%91Day1.pdf)
+2. [Quick-Find and Quick-Union](https://github.com/KingArthur0205/Advanced-Data-Structure/blob/main/Algorithms%20Part1/Week%201/Dynamic%20Connectivity/%E3%80%90DS%E3%80%91Day1(2).pdf)
+3. [Optimization: Weighting and Path Compression](https://github.com/KingArthur0205/Advanced-Data-Structure/blob/main/Algorithms%20Part1/Week%201/Dynamic%20Connectivity/%E3%80%90DS%E3%80%91Day1(3).pdf)
 
 ## Chapter1: 基本数学知识
 ## Chapter2: 算法分析 <br>
