@@ -5,7 +5,13 @@
 1. [Dynamic Connectivity Introduction](https://github.com/KingArthur0205/Advanced-Data-Structure/blob/main/Algorithms%20Part1/Week%201/Dynamic%20Connectivity/%E3%80%90DS%E3%80%91Day1.pdf)
 2. [Quick-Find and Quick-Union](https://github.com/KingArthur0205/Advanced-Data-Structure/blob/main/Algorithms%20Part1/Week%201/Dynamic%20Connectivity/%E3%80%90DS%E3%80%91Day1(2).pdf)
 3. [Optimization: Weighting and Path Compression](https://github.com/KingArthur0205/Advanced-Data-Structure/blob/main/Algorithms%20Part1/Week%201/Dynamic%20Connectivity/%E3%80%90DS%E3%80%91Day1(3).pdf)
-4. [Tilde Notation and Memory](https://github.com/KingArthur0205/Advanced-Data-Structure/blob/main/Algorithms%20Part1/Week%201/Analysis%20of%20Algorithms/%E3%80%90DS%E3%80%91Day3.pdf)
+### 1.2 Analysis of Algorithm
+1. [Empirical Analysis and Data Analysis](https://github.com/KingArthur0205/Advanced-Data-Structure/blob/main/Algorithms%20Part1/Week%201/Analysis%20of%20Algorithms/%E3%80%90DS%E3%80%91Day2.pdf)
+2. [Mathematical Analysis and 3-Sum](https://github.com/KingArthur0205/Advanced-Data-Structure/blob/main/Algorithms%20Part1/Week%201/Analysis%20of%20Algorithms/%E3%80%90DS%E3%80%91Day2(2).pdf)
+3. [Tilde Notation and Memory](https://github.com/KingArthur0205/Advanced-Data-Structure/blob/main/Algorithms%20Part1/Week%201/Analysis%20of%20Algorithms/%E3%80%90DS%E3%80%91Day3.pdf)
+## Week 2
+1. [Linked-Stack and Array-Stack](https://github.com/KingArthur0205/Advanced-Data-Structure/blob/main/Algorithms%20Part1/Week%202/%E3%80%90DS%E3%80%91Day4.pdf)
+2. [Resizing Array and Queue](https://github.com/KingArthur0205/Advanced-Data-Structure/blob/main/Algorithms%20Part1/Week%202/%E3%80%90DS%E3%80%91Day4(2).pdf)
 
 ## Chapter1: 基本数学知识
 ## Chapter2: 算法分析 <br>
