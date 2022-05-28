@@ -16,6 +16,9 @@
 3. [Iterators](https://github.com/KingArthur0205/Advanced-Data-Structure/blob/main/Algorithms%20Part1/Week%202/Stacks%20and%20Queues/%E3%80%90DS%E3%80%91Day5.pdf)
 ### 2.2 Sorting
 1. [Sorting Introduction and Comparable Interface](https://github.com/KingArthur0205/Advanced-Data-Structure/blob/main/Algorithms%20Part1/Week%202/Sorting/%E3%80%90DS%E3%80%91Day6.pdf)
+<br>
+[Selection Sort Code](https://github.com/KingArthur0205/Advanced-Data-Structure/blob/main/Algorithms%20Part1/Week%202/Sorting/Code/Selection.java)
+[Insertion Sort Code](https://github.com/KingArthur0205/Advanced-Data-Structure/blob/main/Algorithms%20Part1/Week%202/Sorting/Code/Insertion.java)
 
 ## Chapter1: 基本数学知识
 ## Chapter2: 算法分析 <br>
