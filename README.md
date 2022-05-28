@@ -13,6 +13,7 @@
 ### 2.1 Stacks and Queues
 1. [Linked-Stack and Array-Stack](https://github.com/KingArthur0205/Advanced-Data-Structure/blob/main/Algorithms%20Part1/Week%202/Stacks%20and%20Queues/%E3%80%90DS%E3%80%91Day4.pdf)
 2. [Resizing Array and Queue](https://github.com/KingArthur0205/Advanced-Data-Structure/blob/main/Algorithms%20Part1/Week%202/Stacks%20and%20Queues/%E3%80%90DS%E3%80%91Day4(2).pdf)
+3. [Iterators](https://github.com/KingArthur0205/Advanced-Data-Structure/blob/main/Algorithms%20Part1/Week%202/Stacks%20and%20Queues/%E3%80%90DS%E3%80%91Day5.pdf)
 ### 2.2 Sorting
 1. [Sorting Introduction and Comparable Interface](https://github.com/KingArthur0205/Advanced-Data-Structure/blob/main/Algorithms%20Part1/Week%202/Sorting/%E3%80%90DS%E3%80%91Day6.pdf)
 
