@@ -17,6 +17,7 @@
 ### 2.2 Sorting
 1. [Sorting Introduction and Comparable Interface](https://github.com/KingArthur0205/Advanced-Data-Structure/blob/main/Algorithms%20Part1/Week%202/Sorting/%E3%80%90DS%E3%80%91Day6.pdf)
 2. [Insertion Sort and Selection Sort](https://github.com/KingArthur0205/Advanced-Data-Structure/blob/main/Algorithms%20Part1/Week%202/Sorting/%E3%80%90DS%E3%80%91Day6(2).pdf)
+3. [Shell Sort, Shuffling, and Convext Hull](https://github.com/KingArthur0205/Advanced-Data-Structure/blob/main/Algorithms%20Part1/Week%202/Sorting/%E3%80%90DS%E3%80%91Day7.pdf)
 
 **Code**
 1. [Selection Sort Code](https://github.com/KingArthur0205/Advanced-Data-Structure/blob/main/Algorithms%20Part1/Week%202/Sorting/Code/Selection.java)
