@@ -22,6 +22,7 @@
 1. [Selection Sort Code](https://github.com/KingArthur0205/Advanced-Data-Structure/blob/main/Algorithms%20Part1/Week%202/Sorting/Code/Selection.java)
 2. [Insertion Sort Code](https://github.com/KingArthur0205/Advanced-Data-Structure/blob/main/Algorithms%20Part1/Week%202/Sorting/Code/Insertion.java)
 3. [Shell Sort Code](https://github.com/KingArthur0205/Advanced-Data-Structure/blob/main/Algorithms%20Part1/Week%202/Sorting/Code/Shell.java)
+4. [Knuth Shuffle](https://github.com/KingArthur0205/Advanced-Data-Structure/blob/main/Algorithms%20Part1/Week%202/Sorting/Code/KnuthShuffle.java)
 
 ## Chapter1: 基本数学知识
 ## Chapter2: 算法分析 <br>
