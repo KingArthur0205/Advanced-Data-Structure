@@ -26,6 +26,7 @@
 4. [Knuth Shuffle](https://github.com/KingArthur0205/Advanced-Data-Structure/blob/main/Algorithms%20Part1/Week%202/Sorting/Code/KnuthShuffle.java)
 ## Week 3
 ### 3.1 Merge Sort
+1. [Merge Sort](https://github.com/KingArthur0205/Advanced-Data-Structure/blob/main/Algorithms%20Part1/Week%203/Merge%20Sort/%E3%80%90DS%E3%80%91Day8.pdf)
 
 **Code**
 1. [Recursive Merge Sort Code](https://github.com/KingArthur0205/Advanced-Data-Structure/blob/main/Algorithms%20Part1/Week%203/Merge%20Sort/Code/Merge_Recursive.java)
