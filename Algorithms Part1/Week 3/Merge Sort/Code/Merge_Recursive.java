@@ -27,7 +27,7 @@ public class Merge {
         for (int k = lo; k <= hi; ++k) {
             if (i > mid) arr[k] = aux[j++];
             else if (j > hi) arr[k] = aux[i++];
-            else if (less(arr[j], arr[i])) arr[k] = aux[j++];
+            else if (less(aux[j], aux[i])) arr[k] = aux[j++];
             else arr[k] = aux[i++];
         }
 
