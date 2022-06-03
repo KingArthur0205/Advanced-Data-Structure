@@ -30,6 +30,7 @@
 
 **Code**
 1. [Recursive Merge Sort Code](https://github.com/KingArthur0205/Advanced-Data-Structure/blob/main/Algorithms%20Part1/Week%203/Merge%20Sort/Code/Merge_Recursive.java)
+2. [Quick Sort Code](https://github.com/KingArthur0205/Advanced-Data-Structure/blob/main/Algorithms%20Part1/Week%203/Quick%20Sort/Code/Quick.java)
 
 ## Chapter1: 基本数学知识
 ## Chapter2: 算法分析 <br>
