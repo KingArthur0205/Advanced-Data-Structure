@@ -27,10 +27,12 @@
 ## Week 3
 ### 3.1 Merge Sort
 1. [Merge Sort](https://github.com/KingArthur0205/Advanced-Data-Structure/blob/main/Algorithms%20Part1/Week%203/Merge%20Sort/%E3%80%90DS%E3%80%91Day8.pdf)
+### 3.2 Quick Sort
+1. [Quicksort and Quickselect](https://github.com/KingArthur0205/Advanced-Data-Structure/blob/main/Algorithms%20Part1/Week%203/Quick%20Sort/%E3%80%90DS%E3%80%91Day10.pdf)
 
 **Code**
 1. [Recursive Merge Sort Code](https://github.com/KingArthur0205/Advanced-Data-Structure/blob/main/Algorithms%20Part1/Week%203/Merge%20Sort/Code/Merge_Recursive.java)
-2. [Quick Sort Code](https://github.com/KingArthur0205/Advanced-Data-Structure/blob/main/Algorithms%20Part1/Week%203/Quick%20Sort/Code/Quick.java)
+2. [Quicksort Code](https://github.com/KingArthur0205/Advanced-Data-Structure/blob/main/Algorithms%20Part1/Week%203/Quick%20Sort/Code/Quick.java)
 
 ## Chapter1: 基本数学知识
 ## Chapter2: 算法分析 <br>
