@@ -37,7 +37,7 @@
 
 ## Week 4
 ### 4.1 Priority Queue
-1. [APIs and Elementary Priority Queue]()
+1. [APIs and Elementary Priority Queue](https://github.com/KingArthur0205/Advanced-Data-Structure/blob/main/Algorithms%20Part1/Week%204/Priority%20Queue/%E3%80%90DS%E3%80%91Day12.pdf)
 2. [Binary Heap](https://github.com/KingArthur0205/Advanced-Data-Structure/blob/main/Algorithms%20Part1/Week%204/Priority%20Queue/%E3%80%90DS%E3%80%91Day13.pdf)
 
 ## Chapter1: 基本数学知识
