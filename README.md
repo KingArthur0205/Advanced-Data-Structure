@@ -35,6 +35,11 @@
 1. [Recursive Merge Sort Code](https://github.com/KingArthur0205/Advanced-Data-Structure/blob/main/Algorithms%20Part1/Week%203/Merge%20Sort/Code/Merge_Recursive.java)
 2. [Quicksort Code](https://github.com/KingArthur0205/Advanced-Data-Structure/blob/main/Algorithms%20Part1/Week%203/Quick%20Sort/Code/Quick.java)
 
+## Week 4
+### 4.1 Priority Queue
+1. [APIs and Elementary Priority Queue]()
+2. [Binary Heap](https://github.com/KingArthur0205/Advanced-Data-Structure/blob/main/Algorithms%20Part1/Week%204/Priority%20Queue/%E3%80%90DS%E3%80%91Day13.pdf)
+
 ## Chapter1: 基本数学知识
 ## Chapter2: 算法分析 <br>
 > &emsp; 1.[使用O和Omega进行算法分析](https://github.com/KingArthur0205/Advanced-Data-Structure/blob/main/%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84%E4%B8%8E%E7%AE%97%E6%B3%95%E5%88%86%E6%9E%90_C%E8%AF%AD%E8%A8%80%E6%8F%8F%E8%BF%B0/Ch2%20%E7%AE%97%E6%B3%95%E5%88%86%E6%9E%90/%E3%80%90%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84%E3%80%91Day1.pdf) <br>
