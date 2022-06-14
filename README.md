@@ -48,6 +48,8 @@
 
 ### 4.2 Symbol Table
 1. [Symbol Table API](https://github.com/KingArthur0205/Advanced-Data-Structure/blob/main/Algorithms%20Part1/Week%204/Symbol%20Table/%E3%80%90DS%E3%80%91Day15.pdf)
+2. [Elementary Implementation and Binary Search](https://github.com/KingArthur0205/Advanced-Data-Structure/blob/main/Algorithms%20Part1/Week%204/Symbol%20Table/%E3%80%90DS%E3%80%91Day16.pdf)
+3. [Binary Search Tree]()
 
 ## Chapter1: 基本数学知识
 ## Chapter2: 算法分析 <br>
