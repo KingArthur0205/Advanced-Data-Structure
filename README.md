@@ -51,6 +51,10 @@
 2. [Elementary Implementation and Binary Search](https://github.com/KingArthur0205/Advanced-Data-Structure/blob/main/Algorithms%20Part1/Week%204/Symbol%20Table/%E3%80%90DS%E3%80%91Day16.pdf)
 3. [Binary Search Tree](https://github.com/KingArthur0205/Advanced-Data-Structure/blob/main/Algorithms%20Part1/Week%204/Symbol%20Table/%E3%80%90DS%E3%80%91Day17.pdf)
 
+## Week 5
+### 4.1 Balanced Search Tree
+1. [2-3 Search Tree](https://github.com/KingArthur0205/Advanced-Data-Structure/blob/main/Algorithms%20Part1/Week%205/Balanced%20Search%20Tree/%E3%80%90DS%E3%80%91Day18.pdf)
+
 ## Chapter1: 基本数学知识
 ## Chapter2: 算法分析 <br>
 > &emsp; 1.[使用O和Omega进行算法分析](https://github.com/KingArthur0205/Advanced-Data-Structure/blob/main/%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84%E4%B8%8E%E7%AE%97%E6%B3%95%E5%88%86%E6%9E%90_C%E8%AF%AD%E8%A8%80%E6%8F%8F%E8%BF%B0/Ch2%20%E7%AE%97%E6%B3%95%E5%88%86%E6%9E%90/%E3%80%90%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84%E3%80%91Day1.pdf) <br>
