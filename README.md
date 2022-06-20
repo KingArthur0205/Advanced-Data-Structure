@@ -52,9 +52,13 @@
 3. [Binary Search Tree](https://github.com/KingArthur0205/Advanced-Data-Structure/blob/main/Algorithms%20Part1/Week%204/Symbol%20Table/%E3%80%90DS%E3%80%91Day17.pdf)
 
 ## Week 5
-### 4.1 Balanced Search Tree
+### 5.1 Balanced Search Tree
 1. [2-3 Search Tree](https://github.com/KingArthur0205/Advanced-Data-Structure/blob/main/Algorithms%20Part1/Week%205/Balanced%20Search%20Tree/%E3%80%90DS%E3%80%91Day18.pdf)
 2. [Red-Black Tree Insertion](https://github.com/KingArthur0205/Advanced-Data-Structure/blob/main/Algorithms%20Part1/Week%205/Balanced%20Search%20Tree/%E3%80%90DS%E3%80%91Day19.pdf)
+
+## Week 6
+### 6.1 Hash Table
+1. [Hash Table, Collision Chaining, and Linear Probing](https://github.com/KingArthur0205/Advanced-Data-Structure/blob/main/Algorithms%20Part1/Week%206/%E3%80%90DS%E3%80%91Day21.pdf)
 
 ## Chapter1: 基本数学知识
 ## Chapter2: 算法分析 <br>
